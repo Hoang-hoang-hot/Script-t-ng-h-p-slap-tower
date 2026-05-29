@@ -1,0 +1,25 @@
+pcall(function()
+    -- Script 1
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+
+    -- Script 2
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/amdzy088/Immune-slap-tower-/main/Immune%20slap%20tower%20work"))()
+
+    -- Script 3
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Rawbr10/Roblox-Scripts/refs/heads/main/Slap-Tower-Script"))()
+
+    -- Script 4
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Markklol/aw/refs/heads/main/Protected/BangScript.lua"))()
+
+    -- Script 5
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoang-hoang-hot/Teleport-to-player-script/refs/heads/main/script%20teleport%20to%20player.txt"))()
+
+    -- Script 6
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoang-hoang-hot/God-mode-script/refs/heads/main/God%20mode.txt"))()
+
+    -- Script 7
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoang-hoang-hot/Air-walk-script/refs/heads/main/Air%20walk.txt"))()
+
+    -- Script 8
+    loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))("Spider Script")
+end)
