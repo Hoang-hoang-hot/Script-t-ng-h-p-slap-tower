@@ -1,0 +1,57 @@
+task.spawn(function()
+
+	-- Script 1
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Rawbr10/Roblox-Scripts/refs/heads/main/Slap-Tower-Script"))()
+	end)
+
+	task.wait(1)
+
+	-- Script 2
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Markklol/aw/refs/heads/main/Protected/BangScript.lua"))()
+	end)
+
+	task.wait(1)
+
+	-- Script 3
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/amdzy088/Immune-slap-tower-/main/Immune%20slap%20tower%20work"))()
+	end)
+
+	task.wait(1)
+
+	-- Script 4
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+	end)
+
+	task.wait(1)
+
+	-- Script 5
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoang-hoang-hot/Teleport-to-player-script/refs/heads/main/script%20teleport%20to%20player.txt"))()
+	end)
+
+	task.wait(1)
+
+	-- Script 6
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoang-hoang-hot/God-mode-script/refs/heads/main/God%20mode.txt"))()
+	end)
+
+	task.wait(1)
+
+	-- Script 7
+	pcall(function()
+		loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))("Spider Script")
+	end)
+
+	task.wait(1)
+
+	-- Script 8
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoang-hoang-hot/Air-walk-script/refs/heads/main/Air%20walk.txt"))()
+	end)
+
+end)
